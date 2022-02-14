@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StoreAndroidKotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment_text">Home Fragment</string>
+    <string name="go_to_profile_text">Go to Profile</string>
+    <string name="product_fragment_text">Product Fragment</string>
+    <string name="about_fragment_text">About Fragment</string>
+    <string name="account_framgent_text">Account Framgent</string>
+    <string name="notification_fragment_text">Notification Fragment</string>
+    <string name="profile_fragment_text">Profile Fragment</string>
+    <string name="report_fragment_text">Report Fragment</string>
+    <string name="service_fragment_text">Service Fragment</string>
+    <string name="setting_fragment_text">Setting Fragment</string>
+    <string name="home_menu_title">หน้าหลัก</string>
+    <string name="product_menu_title">สินค้า</string>
+    <string name="report_menu_title">รายงาน</string>
+    <string name="notification_menu_text">แจ้งเตือน</string>
+    <string name="account_menu_title">ฉัน</string>
+    <string name="about_menu_text">เกี่ยวกับเรา</string>
+    <string name="service_menu_text">บริการ</string>
+    <string name="setting_menu_text">ตั้งค่า</string>
+    <string name="signout_menu_text">ออกจากระบบ</string>
+</resources>
